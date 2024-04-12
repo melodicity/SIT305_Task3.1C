@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="title">SIT305 Quiz App</string>
+    <string name="enter_your_name">Enter your name:</string>
+    <string name="start">Start</string>
+    <string name="welcome">"Welcome, %s! "</string>
+    <string name="congratulations">"Congratulations, %s! "</string>
+    <string name="name">Name</string>
+    <string name="score_value">%d/%d</string>
+    <string name="your_score">Your score:</string>
+    <string name="take_new_quiz">Take New Quiz</string>
+    <string name="finish">Finish</string>
+    <string name="submit">Submit</string>
+    <string name="next">Next</string>
+
+    <!--
+    String arrays for each question
+    The first answer is always the correct one
+    -->
+    <string-array name="q1">
+        <item>What is the capital of Australia?</item><item>Canberra</item><item>Sydney</item><item>Melbourne</item>
+    </string-array>
+    <string-array name="q2">
+        <item>What is 2 raised to the power of 5?</item><item>32</item><item>25</item><item>64</item>
+    </string-array>
+    <string-array name="q3">
+        <item>How many planets are there in the solar system?</item><item>8</item><item>9</item><item>10</item>
+    </string-array>
+    <string-array name="q4">
+        <item>What is the largest animal?</item><item>Blue whale</item><item>African elephant</item><item>Grizzly bear</item>
+    </string-array>
+    <string-array name="q5">
+        <item>What is the chemical symbol for gold?</item><item>Au</item><item>Ag</item><item>Fe</item>
+    </string-array>
+    <string-array name="q6">
+        <item>Who painted the Mona Lisa?</item><item>Leonardo da Vinci</item><item>Pablo Picasso</item><item>Vincent van Gogh</item>
+    </string-array>
+    <string-array name="q7">
+        <item>What is the powerhouse of the cell?</item><item>Mitochondria</item><item>Nucleus</item><item>Membrane</item>
+    </string-array>
+    <string-array name="q8">
+        <item>Which gas is most abundant in Earth\'s atmosphere?</item><item>Nitrogen</item><item>Oxygen</item><item>Carbon dioxide</item>
+    </string-array>
+    <string-array name="q9">
+        <item>Who discovered penicillin?</item><item>Alexander Fleming</item><item>Marie Curie</item><item>Albert Einstein</item>
+    </string-array>
+    <string-array name="q10">
+        <item>What is the largest ocean on Earth?</item><item>Pacific Ocean</item><item>Atlantic Ocean</item><item>Indian Ocean</item>
+    </string-array>
+</resources>
